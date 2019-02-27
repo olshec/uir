@@ -1,0 +1,62 @@
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\ipIs\ipIs\bin\Release\ipIs.exe.config
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\ipIs\ipIs\bin\Release\ipIs.exe
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\ipIs\ipIs\bin\Release\ipIs.pdb
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\ipIs\ipIs\obj\Release\ipIs.Form1.resources
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\ipIs\ipIs\obj\Release\ipIs.MyFormSystems.resources
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\ipIs\ipIs\obj\Release\ipIs.Properties.Resources.resources
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\ipIs\ipIs\obj\Release\ipIs.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\ipIs\ipIs\obj\Release\ipIs.exe
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\ipIs\ipIs\obj\Release\ipIs.pdb
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\ИС\Версия для администраторов\ipIs\bin\Release\ipIs.exe.config
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\ИС\Версия для администраторов\ipIs\obj\Release\ipIs.exe
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\ИС\Версия для администраторов\ipIs\obj\Release\ipIs.pdb
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\ИС\Версия для администраторов\ipIs\bin\Release\ipIs.exe
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\ИС\Версия для администраторов\ipIs\bin\Release\ipIs.pdb
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\ИС\Версия для администраторов\ipIs\obj\Release\ipIs.Form1.resources
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\ИС\Версия для администраторов\ipIs\obj\Release\ipIs.MyFormSystems.resources
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\ИС\Версия для администраторов\ipIs\obj\Release\ipIs.Properties.Resources.resources
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\ИС\Версия для администраторов\ipIs\obj\Release\ipIs.csproj.GenerateResource.Cache
+C:\Users\user\all_doc\work\аренда\ИС\Приложение\Исходник\ipIs\bin\Release\ipIs.exe.config
+C:\Users\user\all_doc\work\аренда\ИС\Приложение\Исходник\ipIs\obj\Release\ipIs.exe
+C:\Users\user\all_doc\work\аренда\ИС\Приложение\Исходник\ipIs\obj\Release\ipIs.pdb
+C:\Users\user\all_doc\work\аренда\ИС\Приложение\Исходник\ipIs\bin\Release\ipIs.exe
+C:\Users\user\all_doc\work\аренда\ИС\Приложение\Исходник\ipIs\bin\Release\ipIs.pdb
+C:\Users\user\all_doc\work\аренда\ИС\Приложение\Исходник\ipIs\obj\Release\ipIs.csprojResolveAssemblyReference.cache
+C:\Users\user\all_doc\work\аренда\ИС\Приложение\Исходник\ipIs\obj\Release\ipIs.Form1.resources
+C:\Users\user\all_doc\work\аренда\ИС\Приложение\Исходник\ipIs\obj\Release\ipIs.MyFormSystems.resources
+C:\Users\user\all_doc\work\аренда\ИС\Приложение\Исходник\ipIs\obj\Release\ipIs.Properties.Resources.resources
+C:\Users\user\all_doc\work\аренда\ИС\Приложение\Исходник\ipIs\obj\Release\ipIs.csproj.GenerateResource.Cache
+C:\Users\user\all_doc\work\now\аренда\ИС\Приложение\Исходник\ipIs\bin\Release\ipIs.exe.config
+C:\Users\user\all_doc\work\now\аренда\ИС\Приложение\Исходник\ipIs\obj\Release\ipIs.exe
+C:\Users\user\all_doc\work\now\аренда\ИС\Приложение\Исходник\ipIs\obj\Release\ipIs.pdb
+C:\Users\user\all_doc\work\now\аренда\ИС\Приложение\Исходник\ipIs\bin\Release\ipIs.exe
+C:\Users\user\all_doc\work\now\аренда\ИС\Приложение\Исходник\ipIs\bin\Release\ipIs.pdb
+C:\Users\user\all_doc\work\now\аренда\ИС\Приложение\Исходник\ipIs\obj\Release\ipIs.csprojResolveAssemblyReference.cache
+C:\Users\user\all_doc\work\now\аренда\ИС\Приложение\Исходник\ipIs\obj\Release\ipIs.Form1.resources
+C:\Users\user\all_doc\work\now\аренда\ИС\Приложение\Исходник\ipIs\obj\Release\ipIs.MyFormSystems.resources
+C:\Users\user\all_doc\work\now\аренда\ИС\Приложение\Исходник\ipIs\obj\Release\ipIs.Properties.Resources.resources
+C:\Users\user\all_doc\work\now\аренда\ИС\Приложение\Исходник\ipIs\obj\Release\ipIs.csproj.GenerateResource.Cache
+F:\k\work stud\Дипломные\Мои\ИС учета договоров аренды и оплаты\ИС\Приложение\Исходник\ipIs\bin\Release\ipIs.exe.config
+F:\k\work stud\Дипломные\Мои\ИС учета договоров аренды и оплаты\ИС\Приложение\Исходник\ipIs\obj\Release\ipIs.exe
+F:\k\work stud\Дипломные\Мои\ИС учета договоров аренды и оплаты\ИС\Приложение\Исходник\ipIs\obj\Release\ipIs.pdb
+F:\k\work stud\Дипломные\Мои\ИС учета договоров аренды и оплаты\ИС\Приложение\Исходник\ipIs\obj\Release\ipIs.csprojResolveAssemblyReference.cache
+F:\k\work stud\Дипломные\Мои\ИС учета договоров аренды и оплаты\ИС\Приложение\Исходник\ipIs\obj\Release\ipIs.Form1.resources
+F:\k\work stud\Дипломные\Мои\ИС учета договоров аренды и оплаты\ИС\Приложение\Исходник\ipIs\obj\Release\ipIs.MyFormSystems.resources
+F:\k\work stud\Дипломные\Мои\ИС учета договоров аренды и оплаты\ИС\Приложение\Исходник\ipIs\obj\Release\ipIs.Properties.Resources.resources
+F:\k\work stud\Дипломные\Мои\ИС учета договоров аренды и оплаты\ИС\Приложение\Исходник\ipIs\obj\Release\ipIs.csproj.GenerateResource.Cache
+F:\k\work stud\Дипломные\Мои\ИС учета договоров аренды и оплаты\ИС\Приложение\Исходник\ipIs\bin\Release\ipIs.exe
+F:\k\work stud\Дипломные\Мои\ИС учета договоров аренды и оплаты\ИС\Приложение\Исходник\ipIs\bin\Release\ipIs.pdb
+F:\k\work stud\Дипломные\Мои\ИС учета договоров аренды и оплаты\ИС\Приложение\Исходник\ipIs\bin\Release\MySql.Data.dll
+F:\k\work stud\Дипломные\Мои\ИС учета договоров аренды и оплаты\ИС\Приложение\Исходник\ipIs\bin\Release\MySql.Data.xml
+F:\k\ТУСУР\8\дз_8\УИР\ИС\Приложение\Исходник\ipIs\bin\Release\ipIs.exe.config
+F:\k\ТУСУР\8\дз_8\УИР\ИС\Приложение\Исходник\ipIs\obj\Release\ipIs.exe
+F:\k\ТУСУР\8\дз_8\УИР\ИС\Приложение\Исходник\ipIs\obj\Release\ipIs.pdb
+F:\k\ТУСУР\8\дз_8\УИР\ИС\Приложение\Исходник\ipIs\bin\Release\ipIs.exe
+F:\k\ТУСУР\8\дз_8\УИР\ИС\Приложение\Исходник\ipIs\bin\Release\ipIs.pdb
+F:\k\ТУСУР\8\дз_8\УИР\ИС\Приложение\Исходник\ipIs\bin\Release\MySql.Data.dll
+F:\k\ТУСУР\8\дз_8\УИР\ИС\Приложение\Исходник\ipIs\bin\Release\MySql.Data.xml
+F:\k\ТУСУР\8\дз_8\УИР\ИС\Приложение\Исходник\ipIs\obj\Release\ipIs.csprojResolveAssemblyReference.cache
+F:\k\ТУСУР\8\дз_8\УИР\ИС\Приложение\Исходник\ipIs\obj\Release\ipIs.Form1.resources
+F:\k\ТУСУР\8\дз_8\УИР\ИС\Приложение\Исходник\ipIs\obj\Release\ipIs.MyFormSystems.resources
+F:\k\ТУСУР\8\дз_8\УИР\ИС\Приложение\Исходник\ipIs\obj\Release\ipIs.Properties.Resources.resources
+F:\k\ТУСУР\8\дз_8\УИР\ИС\Приложение\Исходник\ipIs\obj\Release\ipIs.csproj.GenerateResource.Cache

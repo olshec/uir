@@ -1,0 +1,66 @@
+c:\users\user\documents\visual studio 2012\Projects\ipIs\ipIs\bin\Debug\ipIs.exe.config
+c:\users\user\documents\visual studio 2012\Projects\ipIs\ipIs\obj\Debug\ipIs.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\ipIs\ipIs\obj\Debug\ipIs.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\ipIs\ipIs\obj\Debug\ipIs.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\ipIs\ipIs\obj\Debug\ipIs.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\ipIs\ipIs\obj\Debug\ipIs.MyFormSystems.resources
+c:\users\user\documents\visual studio 2012\Projects\ipIs\ipIs\bin\Debug\ipIs.exe
+c:\users\user\documents\visual studio 2012\Projects\ipIs\ipIs\bin\Debug\ipIs.pdb
+c:\users\user\documents\visual studio 2012\Projects\ipIs\ipIs\obj\Debug\ipIs.exe
+c:\users\user\documents\visual studio 2012\Projects\ipIs\ipIs\obj\Debug\ipIs.pdb
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\ipIs\ipIs\bin\Debug\ipIs.exe.config
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\ipIs\ipIs\obj\Debug\ipIs.exe
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\ipIs\ipIs\obj\Debug\ipIs.pdb
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\ipIs\ipIs\obj\Debug\ipIs.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\ipIs\ipIs\obj\Debug\ipIs.Form1.resources
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\ipIs\ipIs\obj\Debug\ipIs.MyFormSystems.resources
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\ipIs\ipIs\obj\Debug\ipIs.Properties.Resources.resources
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\ipIs\ipIs\obj\Debug\ipIs.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\ipIs\ipIs\bin\Debug\ipIs.exe
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\ipIs\ipIs\bin\Debug\ipIs.pdb
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\рез админ\ipIs\ipIs\bin\Debug\ipIs.exe.config
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\рез админ\ipIs\ipIs\obj\Debug\ipIs.exe
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\рез админ\ipIs\ipIs\obj\Debug\ipIs.pdb
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\рез админ\ipIs\ipIs\bin\Debug\ipIs.exe
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\рез админ\ipIs\ipIs\bin\Debug\ipIs.pdb
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\рез админ\ipIs\ipIs\obj\Debug\ipIs.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\рез админ\ipIs\ipIs\obj\Debug\ipIs.Form1.resources
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\рез админ\ipIs\ipIs\obj\Debug\ipIs.MyFormSystems.resources
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\рез админ\ipIs\ipIs\obj\Debug\ipIs.Properties.Resources.resources
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\рез админ\ipIs\ipIs\obj\Debug\ipIs.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\рез админ\2\Админ\ipIs\bin\Debug\ipIs.exe.config
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\рез админ\2\Админ\ipIs\obj\Debug\ipIs.exe
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\рез админ\2\Админ\ipIs\obj\Debug\ipIs.pdb
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\ИС\Версия для администраторов\ipIs\bin\Debug\ipIs.exe.config
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\ИС\Версия для администраторов\ipIs\obj\Debug\ipIs.exe
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\ИС\Версия для администраторов\ipIs\obj\Debug\ipIs.pdb
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\ИС\Версия для администраторов\ipIs\bin\Debug\ipIs.exe
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\ИС\Версия для администраторов\ipIs\bin\Debug\ipIs.pdb
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\ИС\Версия для администраторов\ipIs\obj\Debug\ipIs.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\ИС\Версия для администраторов\ipIs\obj\Debug\ipIs.Form1.resources
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\ИС\Версия для администраторов\ipIs\obj\Debug\ipIs.MyFormSystems.resources
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\ИС\Версия для администраторов\ipIs\obj\Debug\ipIs.Properties.Resources.resources
+C:\Users\user\Desktop\work\курсовой ИС - IP\Приложение\ИС\Версия для администраторов\ipIs\obj\Debug\ipIs.csproj.GenerateResource.Cache
+C:\Users\user\all_doc\work\аренда\ИС\Версия для администраторов\Исходник\ipIs\bin\Debug\ipIs.exe.config
+C:\Users\user\all_doc\work\аренда\ИС\Версия для администраторов\Исходник\ipIs\obj\Debug\ipIs.exe
+C:\Users\user\all_doc\work\аренда\ИС\Версия для администраторов\Исходник\ipIs\obj\Debug\ipIs.pdb
+C:\Users\user\all_doc\work\аренда\ИС\Версия для администраторов\Исходник\ipIs\bin\Debug\ipIs.exe
+C:\Users\user\all_doc\work\аренда\ИС\Версия для администраторов\Исходник\ipIs\bin\Debug\ipIs.pdb
+C:\Users\user\all_doc\work\аренда\ИС\Версия для администраторов\Исходник\ipIs\obj\Debug\ipIs.csprojResolveAssemblyReference.cache
+C:\Users\user\all_doc\work\аренда\ИС\Версия для администраторов\Исходник\ipIs\obj\Debug\ipIs.Form1.resources
+C:\Users\user\all_doc\work\аренда\ИС\Версия для администраторов\Исходник\ipIs\obj\Debug\ipIs.MyFormSystems.resources
+C:\Users\user\all_doc\work\аренда\ИС\Версия для администраторов\Исходник\ipIs\obj\Debug\ipIs.Properties.Resources.resources
+C:\Users\user\all_doc\work\аренда\ИС\Версия для администраторов\Исходник\ipIs\obj\Debug\ipIs.csproj.GenerateResource.Cache
+C:\Users\user\all_doc\work\аренда\ИС\Приложение\Исходник\ipIs\bin\Debug\ipIs.exe.config
+C:\Users\user\all_doc\work\аренда\ИС\Приложение\Исходник\ipIs\obj\Debug\ipIs.exe
+C:\Users\user\all_doc\work\аренда\ИС\Приложение\Исходник\ipIs\obj\Debug\ipIs.pdb
+C:\Users\user\all_doc\work\now\аренда\ИС\Приложение\Исходник\ipIs\bin\Debug\ipIs.exe.config
+C:\Users\user\all_doc\work\now\аренда\ИС\Приложение\Исходник\ipIs\obj\Debug\ipIs.exe
+C:\Users\user\all_doc\work\now\аренда\ИС\Приложение\Исходник\ipIs\obj\Debug\ipIs.pdb
+C:\Users\user\all_doc\work\now\аренда\ИС\Приложение\Исходник\ipIs\bin\Debug\ipIs.exe
+C:\Users\user\all_doc\work\now\аренда\ИС\Приложение\Исходник\ipIs\bin\Debug\ipIs.pdb
+C:\Users\user\all_doc\work\now\аренда\ИС\Приложение\Исходник\ipIs\obj\Debug\ipIs.csprojResolveAssemblyReference.cache
+C:\Users\user\all_doc\work\now\аренда\ИС\Приложение\Исходник\ipIs\obj\Debug\ipIs.Form1.resources
+C:\Users\user\all_doc\work\now\аренда\ИС\Приложение\Исходник\ipIs\obj\Debug\ipIs.MyFormSystems.resources
+C:\Users\user\all_doc\work\now\аренда\ИС\Приложение\Исходник\ipIs\obj\Debug\ipIs.Properties.Resources.resources
+C:\Users\user\all_doc\work\now\аренда\ИС\Приложение\Исходник\ipIs\obj\Debug\ipIs.csproj.GenerateResource.Cache
